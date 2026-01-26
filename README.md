@@ -11,8 +11,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I enjoy learning new technologies and facing innovative challenges..\
-🎓 &nbsp;I am a software analyst and I am currently in my final semester of Computer Engineering at INACAP..\
-
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
