@@ -1,15 +1,27 @@
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;World/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
+# Jorge Moya 
+Hola, me llamo Jorge Moya. Soy un ingeniero en informática con formación en el desarrollo de software.
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm Jrge</h2>
+## 🛠️ Tecnologías
+**Backend**
+- Python (FastAPI)
+- PostgreSQL
+- MySQL
 
-### 👨🏻‍💻 &nbsp;About Me
+**Frontend**
+- React.js
+- Tailwind
+- Bootstrap
 
-💡 &nbsp;I enjoy learning new technologies and facing innovative challenges..\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## 📂 Proyectos
+**Pruebas técnias**
+- [Web control antenas](https://github.com/jrge-dev/geret-web-project)
+- [Script obtener antenas](https://github.com/jrge-dev/geret-script-obtener-antenas)
+
+## Redes
+- [Linkedin](https://www.linkedin.com/in/jorge-luis-moya-moya/)
+
+
+
 
 
