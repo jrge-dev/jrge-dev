@@ -14,6 +14,9 @@ Hola, me llamo Jorge Moya. Soy un ingeniero en informática con formación en el
 
 
 ## 📂 Proyectos
+**Personales**
+- [Gestión estacionamiento](https://github.com/jrge-dev/estacionamiento-api)
+
 **Pruebas técnias**
 - [Web control antenas](https://github.com/jrge-dev/geret-web-project)
 - [Script obtener antenas](https://github.com/jrge-dev/geret-script-obtener-antenas)
